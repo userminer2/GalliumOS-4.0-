@@ -24,6 +24,8 @@ Known issues:
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
   
     -Transparency effects don't work.
+    
+    -requires 16 gigabytes to install even though install size will be 7.5 gigabytes or less(xubuntu 20.04 comes with so much bloatware).
 
 
 
@@ -45,3 +47,5 @@ Known issues:
     -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
   
     -Transparency effects don't work.
+
+    -requires 16 gigabytes to install even though install size will be 7.5 gigabytes or less(xubuntu 20.04 comes with so much bloatware).
