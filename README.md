@@ -1,4 +1,4 @@
-# GalliumOS-4.0-
+# GalliumOS-4.0+
 The continuation to the now discontinued GalliumOS made by userminer2
 
 GalliumOS 4.0 is a linux distro made to run on chrome based devices.
@@ -16,3 +16,8 @@ Known issues:
 -The "Applications Menu" has no icons.
 -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
 -Transparency effects don't work.
+
+Current releases:
+
+GalliumOS 4.0(preview 1):
+https://drive.google.com/file/d/13uu6HYvLM0WkOOWRoJIS-wHvHWLB4S5k/view
