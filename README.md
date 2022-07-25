@@ -9,6 +9,8 @@ https://drive.google.com/file/d/13uu6HYvLM0WkOOWRoJIS-wHvHWLB4S5k/view
 Unfortunately the image file is more than 2 gigabytes and can not be posted on github for the time being.
 Feel free to leave any suggestions on the subreddit r/galliumos
 
+
+
 Known issues:
 
   -The installer does not work due to ubequity package issues.
@@ -22,6 +24,7 @@ Known issues:
   -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
   
   -Transparency effects don't work.
+
 
 
 Current releases:
