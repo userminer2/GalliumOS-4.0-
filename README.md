@@ -21,3 +21,11 @@ Current releases:
 
 GalliumOS 4.0(preview 1):
 https://drive.google.com/file/d/13uu6HYvLM0WkOOWRoJIS-wHvHWLB4S5k/view
+
+Known issues:
+-The installer does not work due to ubequity package issues.
+-The "Media Keys" don't work
+-The boot screen's background is black and a bit pixelated.
+-The "Applications Menu" has no icons.
+-The default resolution is 1400 900 but this shouldn't be a problem on a real display.
+-Transparency effects don't work.
