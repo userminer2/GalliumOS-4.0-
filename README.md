@@ -13,17 +13,17 @@ Feel free to leave any suggestions on the subreddit r/galliumos
 
 Known issues:
 
-  -The installer does not work due to ubequity package issues.
+    -The installer does not work due to ubequity package issues.
   
-  -The "Media Keys" don't work
+    -The "Media Keys" don't work
   
-  -The boot screen's background is black and a bit pixelated.
+    -The boot screen's background is black and a bit pixelated.
   
-  -The "Applications Menu" has no icons.
+    -The "Applications Menu" has no icons.
   
-  -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
+    -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
   
-  -Transparency effects don't work.
+    -Transparency effects don't work.
 
 
 
@@ -34,14 +34,14 @@ https://drive.google.com/file/d/13uu6HYvLM0WkOOWRoJIS-wHvHWLB4S5k/view
 
 Known issues:
 
-  -The installer does not work due to ubequity package issues.
+    -The installer does not work due to ubequity package issues.
   
-  -The "Media Keys" don't work
+    -The "Media Keys" don't work
   
-  -The boot screen's background is black and a bit pixelated.
+    -The boot screen's background is black and a bit pixelated.
   
-  -The "Applications Menu" has no icons.
+    -The "Applications Menu" has no icons.
   
-  -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
+    -The default resolution is 1400 900 but this shouldn't be a problem on a real display.
   
-  -Transparency effects don't work.
+    -Transparency effects don't work.
