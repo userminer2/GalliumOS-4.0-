@@ -1,5 +1,4 @@
-#[DISCONTINUED DUE TO COPYRIGHT ISSUES]
-# GalliumOS-4.0+
+# GalliumOS-4.0+ [DISCONTINUED DUE TO COPYRIGHT ISSUES]
 The continuation to the now discontinued GalliumOS made by userminer2
 
 GalliumOS 4.0 is a linux distro made to run on chrome based devices.
