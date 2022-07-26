@@ -1,3 +1,4 @@
+#[DISCONTINUED DUE TO COPYRIGHT ISSUES]
 # GalliumOS-4.0+
 The continuation to the now discontinued GalliumOS made by userminer2
 
