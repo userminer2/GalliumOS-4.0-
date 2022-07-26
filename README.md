@@ -1,6 +1,7 @@
 # GalliumOS-4.0+ [DISCONTINUED DUE TO COPYRIGHT ISSUES]
 
 I made a new OS that does not have any copyrighted material in it here: https://github.com/userminer2/EclipsedOS/
+
 The continuation to the now discontinued GalliumOS made by userminer2
 
 GalliumOS 4.0 is a linux distro made to run on chrome based devices.
