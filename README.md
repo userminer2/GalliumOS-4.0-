@@ -1,6 +1,6 @@
 # GalliumOS-4.0+ [DISCONTINUED DUE TO COPYRIGHT ISSUES]
 
-I made a new OS that does not have any copyrighted material in it here: https://github.com/userminer2/EclipsedOS/
+I made a new OS that does not have any copyrighted material in it here: https://github.com/userminer2/EclipsedOS/blob/main/README.md
 
 The continuation to the now discontinued GalliumOS made by userminer2
 
